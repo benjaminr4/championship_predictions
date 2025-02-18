@@ -1,0 +1,433 @@
+Pos,Team,Pld,W,D,L,GF,GA,GD,Pts,Season,PorR
+1,Sunderland,46,27,7,12,76,47,29,88,season06,P
+2,Birmingham City,46,26,8,12,67,42,25,86,season06,P
+3,Derby County,46,25,9,12,62,46,16,84,season06,P
+4,West Bromwich Albion,46,22,10,14,81,55,26,76,season06,
+5,Wolverhampton Wanderers,46,22,10,14,59,56,3,76,season06,
+6,Southampton,46,21,12,13,77,53,24,75,season06,
+7,Preston North End,46,22,8,16,64,53,11,74,season06,
+8,Stoke City,46,19,16,11,62,41,21,73,season06,
+9,Sheffield Wednesday,46,20,11,15,70,66,4,71,season06,
+10,Colchester United,46,20,9,17,70,56,14,69,season06,
+11,Plymouth Argyle,46,17,16,13,63,62,1,67,season06,
+12,Crystal Palace,46,18,11,17,58,50,8,65,season06,
+13,Cardiff City,46,17,13,16,57,53,4,64,season06,
+14,Ipswich Town,46,18,8,20,64,59,5,62,season06,
+15,Burnley,46,15,12,19,52,49,3,57,season06,
+16,Norwich City,46,16,9,21,56,71,-15,57,season06,
+17,Coventry City,46,16,8,22,47,62,-15,56,season06,
+18,Queens Park Rangers,46,14,11,21,54,68,-14,53,season06,
+19,Leicester City,46,13,14,19,49,64,-15,53,season06,
+20,Barnsley,46,15,5,26,53,85,-32,50,season06,
+21,Hull City,46,13,10,23,51,67,-16,49,season06,
+22,Southend United,46,10,12,24,47,80,-33,42,season06,R
+23,Luton Town,46,10,10,26,53,81,-28,40,season06,R
+24,Leeds United,46,13,7,26,46,72,-26,36,season06,R
+1,West Bromwich Albion,46,23,12,11,88,55,33,81,season07,P
+2,Stoke City,46,21,16,9,69,55,14,79,season07,P
+3,Hull City,46,21,12,13,65,47,18,75,season07,P
+4,Bristol City,46,20,14,12,54,53,1,74,season07,
+5,Crystal Palace,46,18,17,11,58,42,16,71,season07,
+6,Watford,46,18,16,12,62,56,6,70,season07,
+7,Wolverhampton Wanderers,46,18,16,12,53,48,5,70,season07,
+8,Ipswich Town,46,18,15,13,65,56,9,69,season07,
+9,Sheffield United,46,17,15,14,56,51,5,66,season07,
+10,Plymouth Argyle,46,17,13,16,60,50,10,64,season07,
+11,Charlton Athletic,46,17,13,16,63,58,5,64,season07,
+12,Cardiff City,46,16,16,14,59,55,4,64,season07,
+13,Burnley,46,16,14,16,60,67,-7,62,season07,
+14,Queens Park Rangers,46,14,16,16,60,66,-6,58,season07,
+15,Preston North End,46,15,11,20,50,56,-6,56,season07,
+16,Sheffield Wednesday,46,14,13,19,54,55,-1,55,season07,
+17,Norwich City,46,15,10,21,49,59,-10,55,season07,
+18,Barnsley,46,14,13,19,52,65,-13,55,season07,
+19,Blackpool,46,12,18,16,59,64,-5,54,season07,
+20,Southampton,46,13,15,18,56,72,-16,54,season07,
+21,Coventry City,46,14,11,21,52,64,-12,53,season07,
+22,Leicester City,46,12,16,18,42,45,-3,52,season07,R
+23,Scunthorpe United,46,11,13,22,46,69,-23,46,season07,R
+24,Colchester United,46,7,17,22,62,86,-24,38,season07,R
+1,Wolverhampton Wanderers,46,27,9,10,80,52,28,90,season08,P
+2,Birmingham City,46,23,14,9,54,37,17,83,season08,P
+3,Sheffield United,46,22,14,10,64,39,25,80,season08,
+4,Reading,46,21,14,11,72,40,32,77,season08,
+5,Burnley,46,21,13,12,72,60,12,76,season08,P
+6,Preston North End,46,21,11,14,66,54,12,74,season08,
+7,Cardiff City,46,19,17,10,65,53,12,74,season08,
+8,Swansea City,46,16,20,10,63,50,13,68,season08,
+9,Ipswich Town,46,17,15,14,62,53,9,66,season08,
+10,Bristol City,46,15,16,15,54,54,0,61,season08,
+11,Queens Park Rangers,46,15,16,15,42,44,-2,61,season08,
+12,Sheffield Wednesday,46,16,13,17,51,58,-7,61,season08,
+13,Watford,46,16,10,20,68,72,-4,58,season08,
+14,Doncaster Rovers,46,17,7,22,42,53,-11,58,season08,
+15,Crystal Palace,46,15,12,19,52,55,-3,56,season08,
+16,Blackpool,46,13,17,16,47,58,-11,56,season08,
+17,Coventry City,46,13,15,18,47,58,-11,54,season08,
+18,Derby County,46,14,12,20,55,67,-12,54,season08,
+19,Nottingham Forest,46,13,14,19,50,65,-15,53,season08,
+20,Barnsley,46,13,13,20,45,58,-13,52,season08,
+21,Plymouth Argyle,46,13,12,21,44,57,-13,51,season08,
+22,Norwich City,46,12,10,24,57,70,-13,46,season08,R
+23,Southampton,46,10,15,21,46,69,-23,45,season08,R
+24,Charlton Athletic,46,8,15,23,52,74,-22,39,season08,R
+1,Newcastle United,46,30,12,4,90,35,55,102,season09,P
+2,West Bromwich Albion,46,26,13,7,89,48,41,91,season09,P
+3,Nottingham Forest,46,22,13,11,65,40,25,79,season09,
+4,Cardiff City,46,22,10,14,73,54,19,76,season09,
+5,Leicester City,46,21,13,12,61,45,16,76,season09,
+6,Blackpool,46,19,13,14,74,58,16,70,season09,P
+7,Swansea City,46,17,18,11,40,37,3,69,season09,
+8,Sheffield United,46,17,14,15,62,55,7,65,season09,
+9,Reading,46,17,12,17,68,63,5,63,season09,
+10,Bristol City,46,15,18,13,56,65,-9,63,season09,
+11,Middlesbrough,46,16,14,16,58,50,8,62,season09,
+12,Doncaster Rovers,46,15,15,16,59,58,1,60,season09,
+13,Queens Park Rangers,46,14,15,17,58,65,-7,57,season09,
+14,Derby County,46,15,11,20,53,63,-10,56,season09,
+15,Ipswich Town,46,12,20,14,50,61,-11,56,season09,
+16,Watford,46,14,12,20,61,68,-7,54,season09,
+17,Preston North End,46,13,15,18,58,73,-15,54,season09,
+18,Barnsley,46,14,12,20,53,69,-16,54,season09,
+19,Coventry City,46,13,15,18,47,64,-17,54,season09,
+20,Scunthorpe United,46,14,10,22,62,84,-22,52,season09,
+21,Crystal Palace,46,14,17,15,50,53,-3,49,season09,
+22,Sheffield Wednesday,46,11,14,21,49,69,-20,47,season09,R
+23,Plymouth Argyle,46,11,8,27,43,68,-25,41,season09,R
+24,Peterborough United,46,8,10,28,46,80,-34,34,season09,R
+1,Queens Park Rangers,46,24,16,6,71,32,39,88,season10,P
+2,Norwich City,46,23,15,8,83,58,25,84,season10,P
+3,Swansea City,46,24,8,14,69,42,27,80,season10,P
+4,Cardiff City,46,23,11,12,76,54,22,80,season10,
+5,Reading,46,20,17,9,77,51,26,77,season10,
+6,Nottingham Forest,46,20,15,11,69,50,19,75,season10,
+7,Leeds United,46,19,15,12,81,70,11,72,season10,
+8,Burnley,46,18,14,14,65,61,4,68,season10,
+9,Millwall,46,18,13,15,62,48,14,67,season10,
+10,Leicester City,46,19,10,17,76,71,5,67,season10,
+11,Hull City,46,16,17,13,52,51,1,65,season10,
+12,Middlesbrough,46,17,11,18,68,68,0,62,season10,
+13,Ipswich Town,46,18,8,20,62,68,-6,62,season10,
+14,Watford,46,16,13,17,77,71,6,61,season10,
+15,Bristol City,46,17,9,20,62,65,-3,60,season10,
+16,Portsmouth,46,15,13,18,53,60,-7,58,season10,
+17,Barnsley,46,14,14,18,55,66,-11,56,season10,
+18,Coventry City,46,14,13,19,54,58,-4,55,season10,
+19,Derby County,46,13,10,23,58,71,-13,49,season10,
+20,Crystal Palace,46,12,12,22,44,69,-25,48,season10,
+21,Doncaster Rovers,46,11,15,20,55,81,-26,48,season10,
+22,Preston North End,46,10,12,24,54,79,-25,42,season10,R
+23,Sheffield United,46,11,9,26,44,79,-35,42,season10,R
+24,Scunthorpe United,46,12,6,28,43,87,-44,42,season10,R
+1,Reading,46,27,8,11,69,41,28,89,season11,P
+2,Southampton,46,26,10,10,85,46,39,88,season11,P
+3,West Ham United,46,24,14,8,81,48,33,86,season11,P
+4,Birmingham City,46,20,16,10,78,51,27,76,season11,
+5,Blackpool,46,20,15,11,79,59,20,75,season11,
+6,Cardiff City,46,19,18,9,66,53,13,75,season11,
+7,Middlesbrough,46,18,16,12,52,51,1,70,season11,
+8,Hull City,46,19,11,16,47,44,3,68,season11,
+9,Leicester City,46,18,12,16,66,55,11,66,season11,
+10,Brighton & Hove Albion,46,17,15,14,52,52,0,66,season11,
+11,Watford,46,16,16,14,56,64,-8,64,season11,
+12,Derby County,46,18,10,18,50,58,-8,64,season11,
+13,Burnley,46,17,11,18,61,58,3,62,season11,
+14,Leeds United,46,17,10,19,65,68,-3,61,season11,
+15,Ipswich Town,46,17,10,19,69,77,-8,61,season11,
+16,Millwall,46,15,12,19,55,57,-2,57,season11,
+17,Crystal Palace,46,13,17,16,46,51,-5,56,season11,
+18,Peterborough United,46,13,11,22,67,77,-10,50,season11,
+19,Nottingham Forest,46,14,8,24,48,63,-15,50,season11,
+20,Bristol City,46,12,13,21,44,68,-24,49,season11,
+21,Barnsley,46,13,9,24,49,74,-25,48,season11,
+22,Portsmouth,46,13,11,22,50,59,-9,40,season11,R
+23,Coventry City,46,9,13,24,41,65,-24,40,season11,R
+24,Doncaster Rovers,46,8,12,26,43,80,-37,36,season11,R
+1,Cardiff City,46,25,12,9,72,45,27,87,season12,P
+2,Hull City,46,24,7,15,61,52,9,79,season12,P
+3,Watford,46,23,8,15,85,58,27,77,season12,
+4,Brighton & Hove Albion,46,19,18,9,69,43,26,75,season12,
+5,Crystal Palace,46,19,15,12,73,62,11,72,season12,P
+6,Leicester City,46,19,11,16,71,48,23,68,season12,
+7,Bolton Wanderers,46,18,14,14,69,61,8,68,season12,
+8,Nottingham Forest,46,17,16,13,63,59,4,67,season12,
+9,Charlton Athletic,46,17,14,15,65,59,6,65,season12,
+10,Derby County,46,16,13,17,65,62,3,61,season12,
+11,Burnley,46,16,13,17,62,60,2,61,season12,
+12,Birmingham City,46,15,16,15,63,69,-6,61,season12,
+13,Leeds United,46,17,10,19,57,66,-9,61,season12,
+14,Ipswich Town,46,16,12,18,48,61,-13,60,season12,
+15,Blackpool,46,14,17,15,62,63,-1,59,season12,
+16,Middlesbrough,46,18,5,23,61,70,-9,59,season12,
+17,Blackburn Rovers,46,14,16,16,55,62,-7,58,season12,
+18,Sheffield Wednesday,46,16,10,20,53,61,-8,58,season12,
+19,Huddersfield Town,46,15,13,18,53,73,-20,58,season12,
+20,Millwall,46,15,11,20,51,62,-11,56,season12,
+21,Barnsley,46,14,13,19,56,70,-14,55,season12,
+22,Peterborough United,46,15,9,22,66,75,-9,54,season12,R
+23,Wolverhampton Wanderers,46,14,9,23,55,69,-14,51,season12,R
+24,Bristol City,46,11,8,27,59,84,-25,41,season12,R
+1,Leicester City,46,31,9,6,83,43,40,102,season13,P
+2,Burnley,46,26,15,5,72,37,35,93,season13,P
+3,Derby County,46,25,10,11,84,52,32,85,season13,
+4,Queens Park Rangers,46,23,11,12,60,44,16,80,season13,P
+5,Wigan Athletic,46,21,10,15,61,48,13,73,season13,
+6,Brighton & Hove Albion,46,19,15,12,55,40,15,72,season13,
+7,Reading,46,19,14,13,70,56,14,71,season13,
+8,Blackburn Rovers,46,18,16,12,70,62,8,70,season13,
+9,Ipswich Town,46,18,14,14,60,54,6,68,season13,
+10,Bournemouth,46,18,12,16,67,66,1,66,season13,
+11,Nottingham Forest,46,16,17,13,67,64,3,65,season13,
+12,Middlesbrough,46,16,16,14,62,50,12,64,season13,
+13,Watford,46,15,15,16,74,64,10,60,season13,
+14,Bolton Wanderers,46,14,17,15,59,60,-1,59,season13,
+15,Leeds United,46,16,9,21,59,67,-8,57,season13,
+16,Sheffield Wednesday,46,13,14,19,63,65,-2,53,season13,
+17,Huddersfield Town,46,14,11,21,58,65,-7,53,season13,
+18,Charlton Athletic,46,13,12,21,41,61,-20,51,season13,
+19,Millwall,46,11,15,20,46,74,-28,48,season13,
+20,Blackpool,46,11,13,22,38,66,-28,46,season13,
+21,Birmingham City,46,11,11,24,58,74,-16,44,season13,
+22,Doncaster Rovers,46,11,11,24,39,70,-31,44,season13,R
+23,Barnsley,46,9,12,25,44,77,-33,39,season13,R
+24,Yeovil Town,46,8,13,25,44,75,-31,37,season13,R
+1,Bournemouth,46,26,12,8,98,45,53,90,season14,P
+2,Watford,46,27,8,11,91,50,41,89,season14,P
+3,Norwich City,46,25,11,10,88,48,40,86,season14,P
+4,Middlesbrough,46,25,10,11,68,37,31,85,season14,
+5,Brentford,46,23,9,14,78,59,19,78,season14,
+6,Ipswich Town,46,22,12,12,72,54,18,78,season14,
+7,Wolverhampton Wanderers,46,22,12,12,70,56,14,78,season14,
+8,Derby County,46,21,14,11,85,56,29,77,season14,
+9,Blackburn Rovers,46,17,16,13,66,59,7,67,season14,
+10,Birmingham City,46,16,15,15,54,64,-10,63,season14,
+11,Cardiff City,46,16,14,16,57,61,-4,62,season14,
+12,Charlton Athletic,46,14,18,14,54,60,-6,60,season14,
+13,Sheffield Wednesday,46,14,18,14,43,49,-6,60,season14,
+14,Nottingham Forest,46,15,14,17,71,69,2,59,season14,
+15,Leeds United,46,15,11,20,50,61,-11,56,season14,
+16,Huddersfield Town,46,13,16,17,58,75,-17,55,season14,
+17,Fulham,46,14,10,22,62,83,-21,52,season14,
+18,Bolton Wanderers,46,13,12,21,54,67,-13,51,season14,
+19,Reading,46,13,11,22,48,69,-21,50,season14,
+20,Brighton & Hove Albion,46,10,17,19,44,54,-10,47,season14,
+21,Rotherham United,46,11,16,19,46,67,-21,46,season14,
+22,Millwall,46,9,14,23,42,76,-34,41,season14,R
+23,Wigan Athletic,46,9,12,25,39,64,-25,39,season14,R
+24,Blackpool,46,4,14,28,36,91,-55,26,season14,R
+1,Burnley,46,26,15,5,72,35,37,93,season15,P
+2,Middlesbrough,46,26,11,9,63,31,32,89,season15,P
+3,Brighton & Hove Albion,46,24,17,5,72,42,30,89,season15,
+4,Hull City,46,24,11,11,69,35,34,83,season15,P
+5,Derby County,46,21,15,10,66,43,23,78,season15,
+6,Sheffield Wednesday,46,19,17,10,66,45,21,74,season15,
+7,Ipswich Town,46,18,15,13,53,51,2,69,season15,
+8,Cardiff City,46,17,17,12,56,51,5,68,season15,
+9,Brentford,46,19,8,19,72,67,5,65,season15,
+10,Birmingham City,46,16,15,15,53,49,4,63,season15,
+11,Preston North End,46,15,17,14,45,45,0,62,season15,
+12,Queens Park Rangers,46,14,18,14,54,54,0,60,season15,
+13,Leeds United,46,14,17,15,50,58,-8,59,season15,
+14,Wolverhampton Wanderers,46,14,16,16,53,58,-5,58,season15,
+15,Blackburn Rovers,46,13,16,17,46,46,0,55,season15,
+16,Nottingham Forest,46,13,16,17,43,47,-4,55,season15,
+17,Reading,46,13,13,20,52,59,-7,52,season15,
+18,Bristol City,46,13,13,20,54,71,-17,52,season15,
+19,Huddersfield Town,46,13,12,21,59,70,-11,51,season15,
+20,Fulham,46,12,15,19,66,79,-13,51,season15,
+21,Rotherham United,46,13,10,23,53,71,-18,49,season15,
+22,Charlton Athletic,46,9,13,24,40,80,-40,40,season15,R
+23,Milton Keynes Dons,46,9,12,25,39,69,-30,39,season15,R
+24,Bolton Wanderers,46,5,15,26,41,81,-40,30,season15,R
+1,Newcastle United,46,29,7,10,85,40,45,94,season16,P
+2,Brighton & Hove Albion,46,28,9,9,74,40,34,93,season16,P
+3,Reading,46,26,7,13,68,64,4,85,season16,
+4,Sheffield Wednesday,46,24,9,13,60,45,15,81,season16,
+5,Huddersfield Town,46,25,6,15,56,58,-2,81,season16,P
+6,Fulham,46,22,14,10,85,57,28,80,season16,
+7,Leeds United,46,22,9,15,61,47,14,75,season16,
+8,Norwich City,46,20,10,16,85,69,16,70,season16,
+9,Derby County,46,18,13,15,54,50,4,67,season16,
+10,Brentford,46,18,10,18,75,65,10,64,season16,
+11,Preston North End,46,16,14,16,64,63,1,62,season16,
+12,Cardiff City,46,17,11,18,60,61,-1,62,season16,
+13,Aston Villa,46,16,14,16,47,48,-1,62,season16,
+14,Barnsley,46,15,13,18,64,67,-3,58,season16,
+15,Wolverhampton Wanderers,46,16,10,20,54,58,-4,58,season16,
+16,Ipswich Town,46,13,16,17,48,58,-10,55,season16,
+17,Bristol City,46,15,9,22,60,66,-6,54,season16,
+18,Queens Park Rangers,46,15,8,23,52,66,-14,53,season16,
+19,Birmingham City,46,13,14,19,45,64,-19,53,season16,
+20,Burton Albion,46,13,13,20,49,63,-14,52,season16,
+21,Nottingham Forest,46,14,9,23,62,72,-10,51,season16,
+22,Blackburn Rovers,46,12,15,19,53,65,-12,51,season16,R
+23,Wigan Athletic,46,10,12,24,40,57,-17,42,season16,R
+24,Rotherham United,46,5,8,33,40,98,-58,23,season16,R
+1,Wolverhampton Wanderers,46,30,9,7,82,39,43,99,season17,P
+2,Cardiff City,46,27,9,10,69,39,30,90,season17,P
+3,Fulham,46,25,13,8,79,46,33,88,season17,P
+4,Aston Villa,46,24,11,11,72,42,30,83,season17,
+5,Middlesbrough,46,22,10,14,67,45,22,76,season17,
+6,Derby County,46,20,15,11,70,48,22,75,season17,
+7,Preston North End,46,19,16,11,57,46,11,73,season17,
+8,Millwall,46,19,15,12,56,45,11,72,season17,
+9,Brentford,46,18,15,13,62,52,10,69,season17,
+10,Sheffield United,46,20,9,17,62,55,7,69,season17,
+11,Bristol City,46,17,16,13,67,58,9,67,season17,
+12,Ipswich Town,46,17,9,20,57,60,-3,60,season17,
+13,Leeds United,46,17,9,20,59,64,-5,60,season17,
+14,Norwich City,46,15,15,16,49,60,-11,60,season17,
+15,Sheffield Wednesday,46,14,15,17,59,60,-1,57,season17,
+16,Queens Park Rangers,46,15,11,20,58,70,-12,56,season17,
+17,Nottingham Forest,46,15,8,23,51,65,-14,53,season17,
+18,Hull City,46,11,16,19,70,70,0,49,season17,
+19,Birmingham City,46,13,7,26,38,68,-30,46,season17,
+20,Reading,46,10,14,22,48,70,-22,44,season17,
+21,Bolton Wanderers,46,10,13,23,39,74,-35,43,season17,
+22,Barnsley,46,9,14,23,48,72,-24,41,season17,R
+23,Burton Albion,46,10,11,25,38,81,-43,41,season17,R
+24,Sunderland,46,7,16,23,52,80,-28,37,season17,R
+1,Norwich City,46,27,13,6,93,57,36,94,season18,P
+2,Sheffield United,46,26,11,9,78,41,37,89,season18,P
+3,Leeds United,46,25,8,13,73,50,23,83,season18,
+4,West Bromwich Albion,46,23,11,12,87,62,25,80,season18,
+5,Aston Villa,46,20,16,10,82,61,21,76,season18,P
+6,Derby County,46,20,14,12,69,54,15,74,season18,
+7,Middlesbrough,46,20,13,13,49,41,8,73,season18,
+8,Bristol City,46,19,13,14,59,53,6,70,season18,
+9,Nottingham Forest,46,17,15,14,61,54,7,66,season18,
+10,Swansea City,46,18,11,17,65,62,3,65,season18,
+11,Brentford,46,17,13,16,73,59,14,64,season18,
+12,Sheffield Wednesday,46,16,16,14,60,62,-2,64,season18,
+13,Hull City,46,17,11,18,66,68,-2,62,season18,
+14,Preston North End,46,16,13,17,67,67,0,61,season18,
+15,Blackburn Rovers,46,16,12,18,64,69,-5,60,season18,
+16,Stoke City,46,11,22,13,45,52,-7,55,season18,
+17,Birmingham City,46,14,19,13,64,58,6,52,season18,
+18,Wigan Athletic,46,13,13,20,51,64,-13,52,season18,
+19,Queens Park Rangers,46,14,9,23,53,71,-18,51,season18,
+20,Reading,46,10,17,19,49,66,-17,47,season18,
+21,Millwall,46,10,14,22,48,64,-16,44,season18,
+22,Rotherham United,46,8,16,22,52,83,-31,40,season18,R
+23,Bolton Wanderers,46,8,8,30,29,78,-49,32,season18,R
+24,Ipswich Town,46,5,16,25,36,77,-41,31,season18,R
+1,Leeds United,46,28,9,9,77,35,42,93,season19,P
+2,West Bromwich Albion,46,22,17,7,77,45,32,83,season19,P
+3,Brentford,46,24,9,13,80,38,42,81,season19,
+4,Fulham,46,23,12,11,64,48,16,81,season19,P
+5,Cardiff City,46,19,16,11,68,58,10,73,season19,
+6,Swansea City,46,18,16,12,62,53,9,70,season19,
+7,Nottingham Forest,46,18,16,12,58,50,8,70,season19,
+8,Millwall,46,17,17,12,57,51,6,68,season19,
+9,Preston North End,46,18,12,16,59,54,5,66,season19,
+10,Derby County,46,17,13,16,62,64,-2,64,season19,
+11,Blackburn Rovers,46,17,12,17,66,63,3,63,season19,
+12,Bristol City,46,17,12,17,60,65,-5,63,season19,
+13,Queens Park Rangers,46,16,10,20,67,76,-9,58,season19,
+14,Reading,46,15,11,20,59,58,1,56,season19,
+15,Stoke City,46,16,8,22,62,68,-6,56,season19,
+16,Sheffield Wednesday,46,15,11,20,58,66,-8,56,season19,
+17,Middlesbrough,46,13,14,19,48,61,-13,53,season19,
+18,Huddersfield Town,46,13,12,21,52,70,-18,51,season19,
+19,Luton Town,46,14,9,23,54,82,-28,51,season19,
+20,Birmingham City,46,12,14,20,54,75,-21,50,season19,
+21,Barnsley,46,12,13,21,49,69,-20,49,season19,
+22,Charlton Athletic,46,12,12,22,50,65,-15,48,season19,R
+23,Wigan Athletic,46,15,14,17,57,56,1,47,season19,R
+24,Hull City,46,12,9,25,57,87,-30,45,season19,R
+1,Norwich City,46,29,10,7,75,36,39,97,season20,P
+2,Watford,46,27,10,9,63,30,33,91,season20,P
+3,Brentford,46,24,15,7,79,42,37,87,season20,P
+4,Swansea City,46,23,11,12,56,39,17,80,season20,
+5,Barnsley,46,23,9,14,58,50,8,78,season20,
+6,Bournemouth,46,22,11,13,73,46,27,77,season20,
+7,Reading,46,19,13,14,62,54,8,70,season20,
+8,Cardiff City,46,18,14,14,66,49,17,68,season20,
+9,Queens Park Rangers,46,19,11,16,57,55,2,68,season20,
+10,Middlesbrough,46,18,10,18,55,53,2,64,season20,
+11,Millwall,46,15,17,14,47,52,-5,62,season20,
+12,Luton Town,46,17,11,18,41,52,-11,62,season20,
+13,Preston North End,46,18,7,21,49,56,-7,61,season20,
+14,Stoke City,46,15,15,16,50,52,-2,60,season20,
+15,Blackburn Rovers,46,15,12,19,65,54,11,57,season20,
+16,Coventry City,46,14,13,19,49,61,-12,55,season20,
+17,Nottingham Forest,46,12,16,18,37,45,-8,52,season20,
+18,Birmingham City,46,13,13,20,37,61,-24,52,season20,
+19,Bristol City,46,15,6,25,46,68,-22,51,season20,
+20,Huddersfield Town,46,12,13,21,50,71,-21,49,season20,
+21,Derby County,46,11,11,24,36,58,-22,44,season20,
+22,Wycombe Wanderers,46,11,10,25,39,69,-30,43,season20,R
+23,Rotherham United,46,11,9,26,44,60,-16,42,season20,R
+24,Sheffield Wednesday,46,12,11,23,40,61,-21,41,season20,R
+1,Fulham,46,27,9,10,106,43,63,90,season21,P
+2,Bournemouth,46,25,13,8,74,39,35,88,season21,P
+3,Huddersfield Town,46,23,13,10,64,47,17,82,season21,
+4,Nottingham Forest,46,23,11,12,73,40,33,80,season21,P
+5,Sheffield United,46,21,12,13,63,45,18,75,season21,
+6,Luton Town,46,21,12,13,63,55,8,75,season21,
+7,Middlesbrough,46,20,10,16,59,50,9,70,season21,
+8,Blackburn Rovers,46,19,12,15,59,50,9,69,season21,
+9,Millwall,46,18,15,13,53,45,8,69,season21,
+10,West Bromwich Albion,46,18,13,15,52,45,7,67,season21,
+11,Queens Park Rangers,46,19,9,18,60,59,1,66,season21,
+12,Coventry City,46,17,13,16,60,59,1,64,season21,
+13,Preston North End,46,16,16,14,52,56,-4,64,season21,
+14,Stoke City,46,17,11,18,57,52,5,62,season21,
+15,Swansea City,46,16,13,17,58,68,-10,61,season21,
+16,Blackpool,46,16,12,18,54,58,-4,60,season21,
+17,Bristol City,46,15,10,21,62,77,-15,55,season21,
+18,Cardiff City,46,15,8,23,50,68,-18,53,season21,
+19,Hull City,46,14,9,23,41,54,-13,51,season21,
+20,Birmingham City,46,11,14,21,50,75,-25,47,season21,
+21,Reading,46,13,8,25,54,87,-33,41,season21,
+22,Peterborough United,46,9,10,27,43,87,-44,37,season21,R
+23,Derby County,46,14,13,19,45,53,-8,34,season21,R
+24,Barnsley,46,6,12,28,33,73,-40,30,season21,R
+1,Burnley,46,29,14,3,87,35,52,101,season22,P
+2,Sheffield United,46,28,7,11,73,39,34,91,season22,P
+3,Luton Town,46,21,17,8,57,39,18,80,season22,P
+4,Middlesbrough,46,22,9,15,84,56,28,75,season22,
+5,Coventry City,46,18,16,12,58,46,12,70,season22,
+6,Sunderland,46,18,15,13,68,55,13,69,season22,
+7,Blackburn Rovers,46,20,9,17,52,54,-2,69,season22,
+8,Millwall,46,19,11,16,57,50,7,68,season22,
+9,West Bromwich Albion,46,18,12,16,59,53,6,66,season22,
+10,Swansea City,46,18,12,16,68,64,4,66,season22,
+11,Watford,46,16,15,15,56,53,3,63,season22,
+12,Preston North End,46,17,12,17,45,59,-14,63,season22,
+13,Norwich City,46,17,11,18,57,54,3,62,season22,
+14,Bristol City,46,15,14,17,55,56,-1,59,season22,
+15,Hull City,46,14,16,16,51,61,-10,58,season22,
+16,Stoke City,46,14,11,21,55,54,1,53,season22,
+17,Birmingham City,46,14,11,21,47,58,-11,53,season22,
+18,Huddersfield Town,46,14,11,21,47,62,-15,53,season22,
+19,Rotherham United,46,11,17,18,49,60,-11,50,season22,
+20,Queens Park Rangers,46,13,11,22,44,71,-27,50,season22,
+21,Cardiff City,46,13,10,23,41,58,-17,49,season22,
+22,Reading,46,13,11,22,46,68,-22,44,season22,R
+23,Blackpool,46,11,11,24,48,72,-24,44,season22,R
+24,Wigan Athletic,46,10,15,21,38,65,-27,42,season22,R
+1,Leicester City,46,31,4,11,89,41,48,97,season23,P
+2,Ipswich Town,46,28,12,6,92,57,35,96,season23,P
+3,Leeds United,46,27,9,10,81,43,38,90,season23,
+4,Southampton,46,26,9,11,87,63,24,87,season23,P
+5,West Bromwich Albion,46,21,12,13,70,47,23,75,season23,
+6,Norwich City,46,21,10,15,79,64,15,73,season23,
+7,Hull City,46,19,13,14,68,60,8,70,season23,
+8,Middlesbrough,46,20,9,17,71,62,9,69,season23,
+9,Coventry City,46,17,13,16,70,59,11,64,season23,
+10,Preston North End,46,18,9,19,56,67,-11,63,season23,
+11,Bristol City,46,17,11,18,53,51,2,62,season23,
+12,Cardiff City,46,19,5,22,53,70,-17,62,season23,
+13,Millwall,46,16,11,19,45,55,-10,59,season23,
+14,Swansea City,46,15,12,19,59,65,-6,57,season23,
+15,Watford,46,13,17,16,61,61,0,56,season23,
+16,Sunderland,46,16,8,22,52,54,-2,56,season23,
+17,Stoke City,46,15,11,20,49,60,-11,56,season23,
+18,Queens Park Rangers,46,15,11,20,47,58,-11,56,season23,
+19,Blackburn Rovers,46,14,11,21,60,74,-14,53,season23,
+20,Sheffield Wednesday,46,15,8,23,44,68,-24,53,season23,
+21,Plymouth Argyle,46,13,12,21,59,70,-11,51,season23,
+22,Birmingham City,46,13,11,22,50,65,-15,50,season23,R
+23,Huddersfield Town,46,9,18,19,48,77,-29,45,season23,R
+24,Rotherham United,46,5,12,29,37,89,-52,27,season23,R
